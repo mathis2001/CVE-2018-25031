@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/mathis2001/CVE-2018-25031/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/mathis2001/CVE-2018-25031/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
